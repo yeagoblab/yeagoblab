@@ -44,8 +44,9 @@ Curso **Sistemas Microinformáticos y Redes (SMR)**. Aprendo practicando: monto 
 
 ---
 
-### Cómo trabajo
+### Cómo aprendo
 
-- **Documento lo que hago:** cada proyecto lleva README y registro de cambios.
-- **Pruebo en mi propio entorno** y nunca publico claves, direcciones ni datos personales.
-- **La IA es mi mentor y revisora,** pero entiendo y compruebo lo que acaba en el código.
+- **Primero lo monto, luego lo entiendo bien.** Pruebo en mi propio equipo, rompo cosas y apunto por qué fallaron.
+- **Nada se da por cerrado el primer día.** Cada servicio pasa unas semanas de pruebas antes de considerarlo terminado.
+- **Seguro por defecto.** Lo que no necesita estar expuesto no se expone, y las claves nunca van a Git.
+- **Uso la IA como mentor,** no como atajo: le pido que me explique cada paso y compruebo el resultado antes de fiarme.
